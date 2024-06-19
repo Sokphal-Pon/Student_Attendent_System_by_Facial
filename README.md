@@ -2,11 +2,11 @@
 # Library phải install trong file requirements.txt
     pip install opencv-python
     pip install dlib
-    pip install face_recogniton
     pip install firebase-admin
     pip install cvzone
     pip install numpy
     pip install pickle
+    pip install pyqt5
 
 + Bước 1: chạy kết quả code
     run file tên run.py
