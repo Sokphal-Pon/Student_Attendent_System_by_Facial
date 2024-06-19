@@ -18,6 +18,4 @@
     run file tên C2database.py
 
 # Video Demo
-
-
-
+<video controls src="Video_Demo/facial attendance.mp4" title="Title"></video>
