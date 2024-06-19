@@ -1,12 +1,12 @@
 
 # Library phải install trong file requirements.txt
-    - pip install opencv-python
-    - pip install dlib
-    - pip install face_recogniton
-    - pip install firebase-admin
-    - pip install cvzone
-    - pip install numpy
-    - pip install pickle
+    pip install opencv-python
+    pip install dlib
+    pip install face_recogniton
+    pip install firebase-admin
+    pip install cvzone
+    pip install numpy
+    pip install pickle
 
 + Bước 1: chạy kết quả code
     run file tên run.py
@@ -18,4 +18,5 @@
     run file tên C2database.py
 
 # Video Demo
+
 <video controls src="Video_Demo/facial attendance.mp4" title="Title"></video>
